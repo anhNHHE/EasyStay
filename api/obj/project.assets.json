@@ -5190,11 +5190,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\laptop368\\Downloads\\EasyStayProject (1)\\EasyStayProject\\api\\api.csproj",
+      "projectUniqueName": "C:\\FPT University\\BL5_EXE_NGOICODE\\EasyStay\\api\\api.csproj",
       "projectName": "api",
-      "projectPath": "C:\\Users\\laptop368\\Downloads\\EasyStayProject (1)\\EasyStayProject\\api\\api.csproj",
+      "projectPath": "C:\\FPT University\\BL5_EXE_NGOICODE\\EasyStay\\api\\api.csproj",
       "packagesPath": "C:\\Users\\laptop368\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\laptop368\\Downloads\\EasyStayProject (1)\\EasyStayProject\\api\\obj\\",
+      "outputPath": "C:\\FPT University\\BL5_EXE_NGOICODE\\EasyStay\\api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
