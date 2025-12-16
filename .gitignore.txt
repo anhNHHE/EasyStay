@@ -1,0 +1,22 @@
+# ===== .NET =====
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# ===== React / Node =====
+node_modules/
+build/
+dist/
+
+# ===== Environment =====
+.env
+.env.*
+
+# ===== Logs =====
+*.log
+
+# ===== OS =====
+Thumbs.db
+.DS_Store
